@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\.vscode\Sem2\Sem_2_3\obj\Debug\net7.0\Sem_2_3.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\.vscode\Sem2\Sem_2_3\obj\Debug\net7.0\Sem_2_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\.vscode\Sem2\Sem_2_3\obj\Debug\net7.0\Sem_2_3.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\.vscode\Sem2\Sem_2_3\obj\Debug\net7.0\Sem_2_3.AssemblyInfo.cs
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\.vscode\Sem2\Sem_2_3\obj\Debug\net7.0\Sem_2_3.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\.vscode\Sem2\Sem_2_3\bin\Debug\net7.0\Sem_2_3.exe
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\.vscode\Sem2\Sem_2_3\bin\Debug\net7.0\Sem_2_3.deps.json
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\.vscode\Sem2\Sem_2_3\bin\Debug\net7.0\Sem_2_3.runtimeconfig.json
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\.vscode\Sem2\Sem_2_3\bin\Debug\net7.0\Sem_2_3.dll
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\.vscode\Sem2\Sem_2_3\bin\Debug\net7.0\Sem_2_3.pdb
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\.vscode\Sem2\Sem_2_3\obj\Debug\net7.0\Sem_2_3.dll
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\.vscode\Sem2\Sem_2_3\obj\Debug\net7.0\refint\Sem_2_3.dll
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\.vscode\Sem2\Sem_2_3\obj\Debug\net7.0\Sem_2_3.pdb
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\.vscode\Sem2\Sem_2_3\obj\Debug\net7.0\Sem_2_3.genruntimeconfig.cache
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\.vscode\Sem2\Sem_2_3\obj\Debug\net7.0\ref\Sem_2_3.dll
