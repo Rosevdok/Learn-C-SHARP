@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem3\Sem3_Homework1\obj\Debug\net7.0\Sem3_Homework1.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem3\Sem3_Homework1\obj\Debug\net7.0\Sem3_Homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem3\Sem3_Homework1\obj\Debug\net7.0\Sem3_Homework1.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem3\Sem3_Homework1\obj\Debug\net7.0\Sem3_Homework1.AssemblyInfo.cs
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem3\Sem3_Homework1\obj\Debug\net7.0\Sem3_Homework1.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem3\Sem3_Homework1\bin\Debug\net7.0\Sem3_Homework1.exe
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem3\Sem3_Homework1\bin\Debug\net7.0\Sem3_Homework1.deps.json
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem3\Sem3_Homework1\bin\Debug\net7.0\Sem3_Homework1.runtimeconfig.json
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem3\Sem3_Homework1\bin\Debug\net7.0\Sem3_Homework1.dll
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem3\Sem3_Homework1\bin\Debug\net7.0\Sem3_Homework1.pdb
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem3\Sem3_Homework1\obj\Debug\net7.0\Sem3_Homework1.dll
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem3\Sem3_Homework1\obj\Debug\net7.0\refint\Sem3_Homework1.dll
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem3\Sem3_Homework1\obj\Debug\net7.0\Sem3_Homework1.pdb
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem3\Sem3_Homework1\obj\Debug\net7.0\Sem3_Homework1.genruntimeconfig.cache
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem3\Sem3_Homework1\obj\Debug\net7.0\ref\Sem3_Homework1.dll
