@@ -18,7 +18,6 @@ int a1 = remains;
 NamDig();
 int a2 = remains;
 NamDig();
-int a3 = remains;
 NamDig();
 int a4 = remains;
 NamDig();
