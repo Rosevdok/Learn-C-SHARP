@@ -5,12 +5,11 @@
 Console.Write("Введите число A: ");
 double numA = Double.Parse(Console.ReadLine());
 Console.Write("Введите число B: ");
-double numB = Double.Parse(Console.ReadLine());
-//Console.WriteLine($"{numA}   {numB}");
+int numB = int.Parse(Console.ReadLine());
 
 Zadacha25 (numA, numB);
 
-void Zadacha25(double number, double degree)
+void Zadacha25(double number, int degree)
 {
     if (number == 0)
     {
@@ -22,10 +21,14 @@ void Zadacha25(double number, double degree)
         Console.WriteLine ("Результат = 1.");
         return;
     }   
-    
+    double res = number;
+    for (int i = 1; i < degree; i++)
+    {
+       res *= number; 
+    }
 
-    double rez = Math.Pow(number, degree);
-    Console.WriteLine($"Число {number} в степени {degree} равно {rez}"); 
+    
+    Console.WriteLine($"Число {number} в степени {degree} равно {res}"); 
 }
     
  
