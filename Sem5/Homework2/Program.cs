@@ -10,7 +10,9 @@ void FillArray(double[] array)
     for (int i = 0; i < number; i++)
     {
         Random rnd = new Random();
-        array[i] = rnd.NextDouble() * (53.44 + 10.34) - 10.34;
+        double min = -10.34;
+        double max = 53.44;
+        array[i] = rnd.NextDouble() * (min + max) - min;
         array[i] = Math.Round(array[i], 1);
     }
 }
@@ -26,16 +28,16 @@ void PrintArray(double[] array)
 
 double DiffMaxMin(double[] arr)
 {
-    double MinNum = arr[0];
-    double MaxNum = arr[0];
+    double minNum = arr[0];
+    double maxNum = arr[0];
     double differ = 0;
     foreach (double val in arr)
     {
-       if (val > MaxNum ) MaxNum = val;
+       if (val > maxNum ) maxNum = val;
        
-       if (val < MinNum) MinNum = val;
+       if (val < minNum) minNum = val;
     }
-    differ = MaxNum - MinNum;
+    differ = maxNum - minNum;
     differ = Math.Round(differ, 1);
     return differ; 
 }
