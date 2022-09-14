@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem7\Homework7_2\obj\Debug\net7.0\Homework7_2.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem7\Homework7_2\obj\Debug\net7.0\Homework7_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem7\Homework7_2\obj\Debug\net7.0\Homework7_2.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem7\Homework7_2\obj\Debug\net7.0\Homework7_2.AssemblyInfo.cs
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem7\Homework7_2\obj\Debug\net7.0\Homework7_2.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem7\Homework7_2\bin\Debug\net7.0\Homework7_2.exe
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem7\Homework7_2\bin\Debug\net7.0\Homework7_2.deps.json
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem7\Homework7_2\bin\Debug\net7.0\Homework7_2.runtimeconfig.json
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem7\Homework7_2\bin\Debug\net7.0\Homework7_2.dll
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem7\Homework7_2\bin\Debug\net7.0\Homework7_2.pdb
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem7\Homework7_2\obj\Debug\net7.0\Homework7_2.dll
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem7\Homework7_2\obj\Debug\net7.0\refint\Homework7_2.dll
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem7\Homework7_2\obj\Debug\net7.0\Homework7_2.pdb
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem7\Homework7_2\obj\Debug\net7.0\Homework7_2.genruntimeconfig.cache
+C:\Users\asus\Desktop\GB\Learn\C_Sharp\Seminar\Sem7\Homework7_2\obj\Debug\net7.0\ref\Homework7_2.dll
